@@ -1,4 +1,4 @@
-# ACM-W RECRUITMENT TASSK
+# ACM-W RECRUITMENT TASK
 
 ¬¬¬¬¬¬
 # Logistic Regression and KNN for IRIS Dataset
